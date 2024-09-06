@@ -1,0 +1,3 @@
+This project focuses on a real-time dataset of steel manufacturing defects from a company.
+I have applied various data analytics techniques using numpy, pandas, seaborn, and other libraries to analyze the data and generate valuable insights. 
+Additionally, I implemented a machine learning model to identify potential patterns in the defects and predict them in advance.
